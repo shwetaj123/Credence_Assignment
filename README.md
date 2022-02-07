@@ -3,3 +3,4 @@
 ![Get_Request](https://user-images.githubusercontent.com/77108169/152812748-bf272327-b58a-4966-b7ed-eba9adbf3722.png)
 ![Get_request_1](https://user-images.githubusercontent.com/77108169/152813598-91c7e0a4-d339-41f3-802e-5f3e1e4dac69.png)
 ![MongoDB](https://user-images.githubusercontent.com/77108169/152813796-dd6fb478-360a-4b14-84b8-c9d18d8f0c00.png)
+![Post_request](https://user-images.githubusercontent.com/77108169/152813966-0c387a11-85e6-47ec-bd3d-282b5740fff5.png)
